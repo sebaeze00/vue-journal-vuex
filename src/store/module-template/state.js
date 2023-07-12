@@ -1,0 +1,5 @@
+// export default () => ({
+
+// });
+
+// CUANDO SE CAMBIE EL STATE NOTIFICA A TODOS LOS COMPONENTES PARA CAMBIARLO
